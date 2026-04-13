@@ -55,6 +55,7 @@ export function Solution() {
                 src="https://storage.googleapis.com/test-platform-alpha-public/input_file_1.png" 
                 alt="21st Century Teaching & AI Integration Mastery Workshop" 
                 fill
+                unoptimized
                 className="object-cover group-hover:scale-105 transition-transform duration-700"
                 referrerPolicy="no-referrer"
               />

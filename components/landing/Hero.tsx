@@ -16,6 +16,7 @@ export function Hero() {
             src="https://storage.googleapis.com/test-platform-alpha-public/input_file_0.png" 
             alt="ImpartMind Solutions Logo" 
             fill
+            unoptimized
             className="object-contain p-1"
             referrerPolicy="no-referrer"
           />

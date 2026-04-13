@@ -3,6 +3,7 @@ import { Problem } from '@/components/landing/Problem';
 import { Solution } from '@/components/landing/Solution';
 import { ValueProps } from '@/components/landing/ValueProps';
 import { AIBonus } from '@/components/landing/AIBonus';
+import { CPDAccreditation } from '@/components/landing/CPDAccreditation';
 import { Pricing } from '@/components/landing/Pricing';
 import { Registration } from '@/components/landing/Registration';
 import { Footer } from '@/components/landing/Footer';
@@ -15,6 +16,7 @@ export default function LandingPage() {
       <Solution />
       <ValueProps />
       <AIBonus />
+      <CPDAccreditation />
       <Pricing />
       <Registration />
       <Footer />
