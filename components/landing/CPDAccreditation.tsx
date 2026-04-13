@@ -72,7 +72,7 @@ export function CPDAccreditation() {
               <div className="absolute -inset-4 bg-electric-yellow/20 rounded-[2.5rem] blur-2xl group-hover:bg-electric-yellow/30 transition-all duration-500" />
               
               <div className="relative bg-white p-8 md:p-12 rounded-[2rem] shadow-2xl border border-white/10">
-                <div className="relative w-full max-w-[400px] aspect-[3/1]">
+                <div className="relative w-full max-w-[500px] aspect-[1552/531] mx-auto">
                   <Image 
                     src="https://storage.googleapis.com/test-platform-alpha-public/input_file_2.png" 
                     alt="Accredited CPD Provider #785711" 
